@@ -127,6 +127,16 @@ body {
 
 }
 
+.button.inactive {
+
+    width: 112px;
+    height: 58px;
+    background-color: #c1bfbc;
+    line-height: 58px;
+    text-align: center;
+
+}
+
 .Rectangle3 {
     display: flex;
     justify-content: center;
